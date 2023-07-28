@@ -38,6 +38,13 @@ The project demonstrates using transfer learning with MobileNetV2 to enhance mal
 
 2. [Physics-integrated deep learning for uncertainty quantification and reliability estimation of nonlinear dynamical systems](https://github.com/udbhavtripathi/Physics-integrated-Variational-Auto-Encoder-PVAE-/tree/main): In this Project I have developed a Physics Integrated Variational Auto Encoder to model nonlinear and Stochastic dynamical system. The main idea to use and ODE solver in the decoder which will solve partial linear system additively augmented with output of MLP which will take care of remaining physics. Based on the result obtained it can be said that this model is suitable for system with parametric uncertaininty and modelling discrepencies and especially is the cases where large number of measurement samples are required.  [[Research Paper]](https://www.sciencedirect.com/science/article/pii/S0266892023000085)
 
+3. [How to build a AI-based Chatbot in Python](https://github.com/udbhavtripathi/AI-chatbot-using-Python): 
+The project demonstrates building a Python chatbot using ChatterBot, NLTK, and TensorFlow, covering types of chatbots, data preprocessing, and response generation.[[Blog]](https://medium.com/@udbhav9696/how-to-build-an-ai-based-chatbot-in-python-fec61c328907)
+
+4. [PDF summarization using Pegasus](https://github.com/udbhavtripathi/PDF-summarization-using-Pegasus): 
+The project demonstrates using the Pegasus model to summarize large PDF documents, utilizing PyPDF2 for text extraction and building a web app with Streamlit for easy user interaction and deployment. [[Blog]](https://medium.com/@udbhav9696/how-to-build-an-ai-based-chatbot-in-python-fec61c328907)
+
+
 
 
 
