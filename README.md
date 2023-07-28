@@ -31,7 +31,7 @@ Hi! I’m Udbhav Tripathi and I work on Generative AI. I am particularly interes
 ## 🛠 My Projects
 Click on the project name to directly go to it's GitHub Repository
 
-1. [Transfer learning for Malaria detection]([https://github.com/udbhavtripathi/Physics-integrated-Variational-Auto-Encoder-PVAE-/tree/main](https://github.com/udbhavtripathi/Transfer-Learning-for-Malaria-Detection)): 
+1. [Transfer learning for Malaria detection](https://github.com/udbhavtripathi/Transfer-Learning-for-Malaria-Detection): 
 The project demonstrates using transfer learning with MobileNetV2 to enhance malaria detection accuracy in medical images with limited training data.[[Blog]](https://medium.com/@udbhav9696/transfer-learning-for-malaria-detection-345c3dd8fac0)
 
 
