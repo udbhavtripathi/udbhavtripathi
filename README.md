@@ -31,7 +31,7 @@ Hi! I’m Udbhav Tripathi and I work on Generative AI. I am particularly interes
 ## 🛠 My Projects
 Click on the project name to directly go to it's GitHub Repository
 
-Physics-integrated deep learning for uncertainty quantification and reliability estimation of nonlinear dynamical systems: [Git repo](https://github.com/udbhavtripathi/Physics-integrated-Variational-Auto-Encoder-PVAE-/tree/main) , [Research Paper](https://www.sciencedirect.com/science/article/pii/S0266892023000085)
+[Physics-integrated deep learning for uncertainty quantification and reliability estimation of nonlinear dynamical systems](https://github.com/udbhavtripathi/Physics-integrated-Variational-Auto-Encoder-PVAE-/tree/main) , [Research Paper](https://www.sciencedirect.com/science/article/pii/S0266892023000085)
 
 
 
