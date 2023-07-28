@@ -1,9 +1,13 @@
-### Hi there 👋
+###                                   Hi there 👋 I am Udbhav
 
 <!--
 **udbhavtripathi/udbhavtripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+My Resume: [Link](https://www.example.com)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
