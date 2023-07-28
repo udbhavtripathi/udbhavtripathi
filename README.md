@@ -1,8 +1,9 @@
-</center>
+<div align="center">
 
 ## Hi there 👋 I am Udbhav
 
-</center>
+</div>
+
 
 
 <!--
