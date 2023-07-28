@@ -4,6 +4,9 @@
 
 </center>
 
+
+“Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”
+
 <!--
 **udbhavtripathi/udbhavtripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +24,7 @@
 
 
 
-Here are some ideas to get you started:
-
-Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+Welcome to my Profile. This is an overview of all the work I did:
 
 ## 🔭 About Me
 Hi! I’m Udbhav Tripathi and I work on Generative AI. I am particularly interested in applications of Computer vision, RL, NLP and Time series analysis. I have a strong background in mathematics, statistics, and computer science, and I have worked on developing algorithms and models for various applications. I am passionate about exploring the potential of these technologies and pushing the boundaries of what is possible in the field of AI. Currently I am working as a Data Scientist at [Unnati Agri](https://unnatiagri.com/)
