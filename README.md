@@ -30,7 +30,7 @@ I am particularly interested in applications of Computer vision, RL, NLP and Tim
 Click on the project name to directly go to it's GitHub Repository
 
 1. [Course GPT](https://github.com/udbhavtripathi/Course_GPT)
-Course GPT empowers users to effortlessly create tailored mini-courses that match their specific interests and learning goals. By leveraging the capabilities of ChatOpenAI model and Langchain, this app streamlines the process of generating course content.
+Course GPT empowers users to effortlessly create tailored mini-courses that match their specific interests and learning goals. By leveraging the capabilities of ChatOpenAI model and Langchain, this app streamlines the process of generating course content. [Demo APP](https://coursegpt.streamlit.app/)
 
 2. [Transfer learning for Malaria detection](https://github.com/udbhavtripathi/Transfer-Learning-for-Malaria-Detection): 
 The project demonstrates using transfer learning with MobileNetV2 to enhance malaria detection accuracy in medical images with limited training data.[[Blog]](https://medium.com/@udbhav9696/transfer-learning-for-malaria-detection-345c3dd8fac0)
