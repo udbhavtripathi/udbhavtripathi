@@ -58,11 +58,11 @@ The project demonstrates using the Pegasus model to summarize large PDF document
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Udbhav's github stats](https://github-readme-stats.vercel.app/api?username=udbhavtripathi)](https://github.com/udbhavtripathi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udbhavtripathi&layout=compact)](https://github.com/udbhavtripathi)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
 
 
 
