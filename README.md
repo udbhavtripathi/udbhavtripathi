@@ -24,6 +24,7 @@
 -->
 
 
+## About me
 I am particularly interested in applications of Computer vision, RL, NLP and Time series analysis. I have a strong background in mathematics, statistics, and computer science, and I have worked on developing algorithms and models for various applications. I am passionate about exploring the potential of these technologies and pushing the boundaries of what is possible in the field of AI. Currently I am working as a Data Scientist at [Unnati Agri](https://unnatiagri.com/)
 
 ## 🛠 My Projects
@@ -40,11 +41,16 @@ The project demonstrates using transfer learning with MobileNetV2 to enhance mal
 4. [How to build a AI-based Chatbot in Python](https://github.com/udbhavtripathi/AI-chatbot-using-Python): 
 The project demonstrates building a Python chatbot using ChatterBot, NLTK, and TensorFlow, covering types of chatbots, data preprocessing, and response generation.[[Blog]](https://medium.com/@udbhav9696/how-to-build-an-ai-based-chatbot-in-python-fec61c328907)
 
+
+
 5. [PDF summarization using Pegasus](https://github.com/udbhavtripathi/PDF-summarization-using-Pegasus): 
 The project demonstrates using the Pegasus model to summarize large PDF documents, utilizing PyPDF2 for text extraction and building a web app with Streamlit for easy user interaction and deployment. [[Blog]](https://medium.com/@udbhav9696/how-to-build-an-ai-based-chatbot-in-python-fec61c328907)
 
 
 
+## Contact Me
+
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
