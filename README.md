@@ -25,7 +25,16 @@
 
 
 ## About me
-I am particularly interested in applications of Computer vision, RL, NLP and Time series analysis. I have a strong background in mathematics, statistics, and computer science, and I have worked on developing algorithms and models for various applications. I am passionate about exploring the potential of these technologies and pushing the boundaries of what is possible in the field of AI. Currently I am working as a Research Scientist at [ANSYS](https://www.ansys.com/en-in)
+I am a researcher working at the interface of Scientific Machine Learning (SciML), Geometric Deep Learning, and Scientific Foundation Models (SciFM). My work centers on developing scalable, physics-aware machine learning frameworks for scientific data — with a focus on 3D reconstruction, computational physics, and simulation-driven learning. I build end-to-end pipelines from large scale data generation, preprocessing, training large diffusion, transformer models and experimenting with other architectures for scientific applications. I'm passionate about integrating physics priors with AI, building large scale toolkits for AI4Science applications.
+
+Technical Expertise
+Scientific Foundation Models (UPT, Poseidon etc.)
+Geometric Deep Learning (TRELLIS, LATTE3D, etc.)
+Transformer-based scientific and geometric models
+3D geometry processing using PyVista, Open3D, and VTK
+3D computer vision (ViT, NERF, Gaussian Splatting, etc.)
+
+Currently I am working as a Research Scientist at [ANSYS](https://www.ansys.com/en-in)
 ## 🛠 My Projects
 Click on the project name to directly go to it's GitHub Repository
 
